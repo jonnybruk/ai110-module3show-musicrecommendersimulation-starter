@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Sonata Moonlight,Vienna Strings,classical,peaceful,0.31,88,0.79,0.25,0.95
+12,Rhythm Evolution,Jazz Rebels,jazz,energetic,0.68,120,0.75,0.71,0.62
+13,Neon Dreams,Synthwave Masters,synthwave,futuristic,0.85,125,0.68,0.76,0.12
+14,Whisper Wind,Acoustic Soul,acoustic,melancholic,0.29,65,0.48,0.35,0.97
+15,Urban Jungle,Hip Hop Chronicles,hip-hop,confident,0.79,95,0.72,0.84,0.18
+16,Electronic Reset,Pulse Sync,electronic,energetic,0.87,140,0.71,0.82,0.08
+17,Blues Midnight,Midnight Blues Band,blues,soulful,0.52,100,0.61,0.58,0.88
+18,Mountain Echo,Folk Wanderer,folk,nostalgic,0.45,92,0.67,0.48,0.91
+19,Retro Beats,80s Revival,retro pop,uplifting,0.81,128,0.86,0.79,0.24
+20,Cosmic Journey,Space Travelers,ambient,transcendent,0.34,70,0.62,0.44,0.85
